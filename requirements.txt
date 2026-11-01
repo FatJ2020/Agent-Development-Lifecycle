@@ -1,0 +1,3 @@
+# Core evaluator uses Python standard library only.
+# Optional development helpers:
+pytest>=8.0
