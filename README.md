@@ -69,7 +69,7 @@ No API key or paid model is required. Pure Python standard library.
 
 ---
 
-## Quick start (copy-paste)
+## Quick start 
 
 ```bash
 # 1. Clone (or download ZIP and extract)
