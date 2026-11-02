@@ -1,4 +1,4 @@
-# 5-minute hiring-manager demo
+# 5-minute demo
 
 ## 0:00–0:45 — Business problem
 An AI agent can sound convincing but still make an unauthorised tool call, rely on missing evidence or claim a failed operation succeeded. A single answer-quality score does not cover these risks.
