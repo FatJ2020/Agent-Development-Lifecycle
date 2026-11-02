@@ -165,13 +165,6 @@ It is a demonstration that lifecycle discipline still matters when the system ca
 - Never put confidential employer data, credentials or proprietary documents in this repository.
 
 ---
-
-## Suggested one-minute interview pitch
-
-> “I used my product-development and operational-governance background to design a lifecycle for AI agents. The key idea is that we should not release an agent just because one demo looked good. Requirements must be testable, the action trajectory must be traceable, high-risk failures must override average scores, and every change should be tested against a regression suite. I built a small, transparent Python prototype with synthetic traces to demonstrate those controls.”
-
----
-
 ## License
 
 MIT License — see [LICENSE](LICENSE).
